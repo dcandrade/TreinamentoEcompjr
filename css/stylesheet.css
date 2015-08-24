@@ -1,0 +1,44 @@
+* {
+margin:0;
+padding:0;
+}
+html, body {
+height: 100%;
+}
+ul li{
+	display: inline;
+	padding: 2%;
+	font-size: 1.5em;
+}
+.menu{
+	width: 100%;
+}
+.main-header{
+	width: 100%;
+}
+h1.header-font {
+	color: white;
+	text-align: center;
+	padding: 1%;
+	font-size: 3.5em;
+}
+body section.default-page{
+	width: 100%;
+	height: 100%;
+}
+.default-footer{
+	width: 100%;
+	height: 10%;
+}
+.green-bg{
+	background-color: green;
+}
+.black-bg{
+	background-color: black;
+}
+.red-bg{
+	background-color: red;
+}
+.yellow-bg{
+	background-color: yellow;
+}
